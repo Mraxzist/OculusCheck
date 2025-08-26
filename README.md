@@ -1,4 +1,4 @@
-# OculusCheck — searching hashes in malware databases
+# OculusCheck is a search for hashes in malicious file databases.
 
 **English** | [Русский](README.ru.md)
 
